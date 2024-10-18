@@ -98,5 +98,18 @@ This project is a chatbot application built using FastAPI, Cohere, and Qdrant. I
 2. Ask a question, e.g., "What is the role of AI in healthcare?"
 3. The chatbot will retrieve the most relevant sections and generate a response based on the PDFs' content.
 
-## Project Structure
+## Environment Variables
+
+Make sure to set the following environment variables:
+
+- **COHERE_API_KEY**: Your Cohere API key.
+- **QDRANT_API_KEY**: Your Qdrant API key.
+- **QDRANT_URL**: The URL of your Qdrant instance.
+
+## Acknowledgments
+
+- [Cohere](https://cohere.ai) for providing language models and embedding services.
+- [Qdrant](https://qdrant.tech) for the vector database services.
+- [LangChain](https://github.com/hwchase17/langchain) for providing utilities to handle text chunking.
+
 
