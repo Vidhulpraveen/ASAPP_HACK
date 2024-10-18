@@ -112,4 +112,6 @@ Make sure to set the following environment variables:
 - [Qdrant](https://qdrant.tech) for the vector database services.
 - [LangChain](https://github.com/hwchase17/langchain) for providing utilities to handle text chunking.
 
+## Demo
 
+Check out the [Demo here](https://drive.google.com/file/d/13OnWszyyys0xc5zMmKHRqtFmeEEFYSTg/view?usp=drive_link).
