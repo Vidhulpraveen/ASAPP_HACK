@@ -63,7 +63,7 @@ This project is a chatbot application built using FastAPI, Cohere, and Qdrant. I
 
 1. **Navigate to the frontend directory**:
     ```bash
-    cd frontend
+    cd pdf-chatbot
     ```
 
 2. **Install dependencies**:
